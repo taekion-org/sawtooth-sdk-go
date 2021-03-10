@@ -23,7 +23,7 @@ import (
 	"github.com/hyperledger/sawtooth-sdk-go/processor"
 	flags "github.com/jessevdk/go-flags"
 	"os"
-	intkey "sawtooth_intkey/handler"
+	intkey "github.com/hyperledger/sawtooth-sdk-go/examples/intkey_go/src/sawtooth_intkey/handler"
 	"syscall"
 )
 

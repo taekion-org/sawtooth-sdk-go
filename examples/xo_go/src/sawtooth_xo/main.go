@@ -22,7 +22,7 @@ import (
 	"github.com/hyperledger/sawtooth-sdk-go/processor"
 	flags "github.com/jessevdk/go-flags"
 	"os"
-	xo "sawtooth_xo/handler"
+	xo "github.com/hyperledger/sawtooth-sdk-go/examples/xo_go/src/sawtooth_xo/handler"
 	"syscall"
 )
 
