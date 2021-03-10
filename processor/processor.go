@@ -25,9 +25,9 @@ import (
 	zmq "github.com/pebbe/zmq4"
 	"os"
 	"os/signal"
-	"protobuf/network_pb2"
-	"protobuf/processor_pb2"
-	"protobuf/validator_pb2"
+	"github.com/hyperledger/sawtooth-sdk-go/protobuf/network_pb2"
+	"github.com/hyperledger/sawtooth-sdk-go/protobuf/processor_pb2"
+	"github.com/hyperledger/sawtooth-sdk-go/protobuf/validator_pb2"
 	"runtime"
 	"time"
 )
