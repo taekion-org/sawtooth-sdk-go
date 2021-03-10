@@ -21,7 +21,7 @@ import (
 	"flag"
 	"github.com/hyperledger/sawtooth-sdk-go/logging"
 	"github.com/hyperledger/sawtooth-sdk-go/processor"
-	noop "sawtooth_noop/handler"
+	noop "github.com/hyperledger/sawtooth-sdk-go/examples/noop_go/src/sawtooth_noop/handler"
 	"syscall"
 )
 
